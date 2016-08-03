@@ -17,3 +17,14 @@ public class FindMatchingAnimals {
 
     }
 }
+
+// Advanced class Design
+// Design Pattern and Principals
+// Generics and Collections
+// Functional Programming
+// Date, String and Localization
+// Exceptions and Assertions
+// Concurrency
+// IO
+// NIO
+// JDBC
